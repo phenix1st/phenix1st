@@ -1,15 +1,11 @@
 <h1 align="center">YO 🚀, This is Adem Aka Phenix</h1>
 <h3 align="center">a passionate CS student about AI, software Dev, Robotics & Entrepreneurship.</h3>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="pacman contribution graph">
+  <img src="https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="pacman contribution graph">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
 <h3 align="left">Connect with me:</h3>
