@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adem Aka Phenix</h1>
+<h1 align="center">YO 🚀, This is Adem Aka Phenix</h1>
 <h3 align="center">a passionate CS student about AI, software Dev, Robotics & Entrepreneurship.</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph.svg">
+  ![pacman contribution graph](https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![pacman contribution graph](https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+
 </picture>
 
 
