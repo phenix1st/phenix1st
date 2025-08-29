@@ -1,8 +1,6 @@
 <h1 align="center">YO 🚀, This is Adem Aka Phenix</h1>
 <h3 align="center">a passionate CS student about AI, software Dev, Robotics & Entrepreneurship.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phenix1st" alt="phenix1st" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hamdi adem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdi adem" height="30" width="40" /></a>
