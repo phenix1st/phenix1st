@@ -1,16 +1,5 @@
 <h1 align="center">YO 🚀, This is Adem Aka Phenix</h1>
 <h3 align="center">a passionate CS student about AI, software Dev, Robotics & Entrepreneurship.</h3>
-<picture>
-<div align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph-dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph.svg" media="(prefers-color-scheme: light)">
-    <img src="https://raw.githubusercontent.com/Phenix1st/Phenix1st/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
-  </picture>
-</div>
-
-</picture>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phenix1st" alt="phenix1st" /></a> </p>
 
