@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hey, I'm Phenix 👋
 
 ### Computer Engineering Student · Software Developer · AI & Computer Vision Enthusiast
