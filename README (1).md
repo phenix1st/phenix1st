@@ -133,7 +133,7 @@ AI, computer vision, IoT, and real-world engineering**.
 ## 📫 Connect
 
 -   **GitHub:** [@phenix1st](https://github.com/phenix1st)
--   **LinkedIn:** Add your LinkedIn profile URL here
+-   **LinkedIn:** https://www.linkedin.com/in/hamdi-adem-766b03233
 
 ------------------------------------------------------------------------
 
